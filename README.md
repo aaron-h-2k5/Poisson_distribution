@@ -1,6 +1,6 @@
 # Fitting Poisson  distribution
-### Name: H. AARON
-### Register Number: 212223040001
+### Developed by : H. AARON
+### Register number : 212223040001
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
