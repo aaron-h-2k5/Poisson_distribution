@@ -1,4 +1,4 @@
-# Fitting Poisson  distribution
+# Ex-2 Fitting Poisson  distribution
 ### Developed by : H. AARON
 ### Register number : 212223040001
 # Aim : 
